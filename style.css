@@ -1,13 +1,14 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    background: #f6f6f6;
-    color: #222;
+    background: #fdf6e3;
+    color: #4d3c1a;
 }
 .navbar {
     display: flex;
     align-items: center;
-    background: #1aaf5d;
+    background: #ffe08a;
+    border-bottom: 2px solid #b89c5a;
     padding: 0.5em 2em;
 }
 .logo {
@@ -23,27 +24,27 @@ body {
 }
 .nav-links a {
     text-decoration: none;
-    color: #fff;
+    color: #4d3c1a;
     font-weight: bold;
     padding: 0.5em 1em;
     border-radius: 4px;
     transition: background 0.2s, color 0.2s;
 }
 .nav-links a:hover {
-    background: #fff;
-    color: #1aaf5d;
+    background: #b89c5a;
+    color: #fff;
 }
 .nav-links a.active {
-    background: #fff;
-    color: #1aaf5d;
-    box-shadow: 0 2px 8px rgba(26,175,93,0.15);
+    background: #f9c74f;
+    color: #4d3c1a;
+    box-shadow: 0 2px 8px rgba(184,156,90,0.15);
 }
 main {
     padding: 2em;
     min-height: 60vh;
 }
 footer {
-    background: #1aaf5d;
+    background: #b89c5a;
     color: #fff;
     text-align: center;
     padding: 1em 0;

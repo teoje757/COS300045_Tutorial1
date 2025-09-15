@@ -15,8 +15,9 @@ In this unit you will learn how to build interactive web-based data visualisatio
 - give you practice committing files to GitHub
 - give you practice hosting a website
 - provide a website to upload data visualisations created for other Tasks
-
+  
 This exercise will be required for Sign Off Demonstration 1.
+
 ---
 
 ## GitHub Copilot Usage Notes & Reflection
@@ -29,4 +30,4 @@ This exercise will be required for Sign Off Demonstration 1.
 - Used Copilot to troubleshoot layout issues and align navigation tabs for a polished look.
 
 ### Reflection on Copilot Experience
-Using GitHub Copilot made the development process much faster and more efficient. It provided helpful code suggestions and design ideas, allowing me to focus on customizing the site to my needs. Copilot was especially useful for solving CSS responsiveness issues and for generating boilerplate code. Overall, Copilot was a valuable tool that improved my productivity and helped me deliver a professional-looking website.
+Using GitHub Copilot made the development process much faster and more efficient. It provided helpful code suggestions and design ideas, allowing me to focus on customizing the site to my needs. Overall, Copilot was a valuable tool that improved my productivity and helped me deliver a professional-looking website.
